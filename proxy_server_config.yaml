@@ -3,7 +3,7 @@ model_list:
     litellm_params:
       model: gpt-4-1106-preview
       api_version: "2023-05-15"
-- model_name: openrouter/google/palm-2-chat-bison
+  - model_name: openrouter/google/palm-2-chat-bison
     litellm_params:
       model: openrouter/google/palm-2-chat-bison
       rpm: 100
